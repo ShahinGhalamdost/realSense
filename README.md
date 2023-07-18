@@ -5,6 +5,7 @@ Format and send pick-up coordinations of a planar surface in 3d(x/y/z) to robot 
 
 # Cameras
 Intel RealSense LiDAR Camera L515
+
 Intel RealSense Depth Camera SR305
 
 # Packages

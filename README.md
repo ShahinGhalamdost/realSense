@@ -13,5 +13,6 @@ Intel RealSense Depth Camera SR305
 ## install
 
 ```
-pip install pyrealsense
+pip install numpy cython 
+pip install pyrealsense 
 ```

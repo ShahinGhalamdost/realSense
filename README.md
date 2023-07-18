@@ -11,8 +11,6 @@ Intel RealSense Depth Camera SR305
  pyrealsense
 ## install
 
-'''
-
+```
 pip install pyrealsense
- 
-'''
+```
